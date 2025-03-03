@@ -50,4 +50,12 @@
     .recipe-name{
         font-size: 50px;
     }
+
+    .recipe-video{
+        height: 100%;
+    }
+
+    .quick-notes ul{
+        display: block;
+    }
 }
