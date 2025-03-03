@@ -62,4 +62,22 @@
     .recipe-card{
         display: flex;
     }
+
+    .social-networks .label {
+        display: flex;
+        padding-left: 7px;
+        align-self: center;
+    }
+
+
+    .social-networks button{
+        display: flex;
+        font-size: 98%;
+        justify-content: center;
+    }
+
+
+    .fab, .far{
+        align-self: center;
+    }
 }
