@@ -1,8 +1,11 @@
 /* Soluzione qui */
 
-.recipe-video:first-child img {
+.recipe-video img {
     width:100%
 }
+
+/* Tablet 728px */
+
 
 @media screen and (min-width: 728px) {
     #topbar{
@@ -38,5 +41,13 @@
     .presentation img{
         float: left;
         margin-right: 15px;
+    }
+}
+
+/* Desktop 992px */
+
+@media screen and (min-width: 992px){
+    .recipe-name{
+        font-size: 50px;
     }
 }
