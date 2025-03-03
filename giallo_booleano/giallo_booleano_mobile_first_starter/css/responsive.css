@@ -4,6 +4,10 @@
     width:100%
 }
 
+h2{
+    font-family: "Nerko One, cursive"
+}
+
 /* Tablet 728px */
 
 
@@ -79,5 +83,14 @@
 
     .fab, .far{
         align-self: center;
+    }
+
+    footer{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    address{
+        text-align: justify;
     }
 }
