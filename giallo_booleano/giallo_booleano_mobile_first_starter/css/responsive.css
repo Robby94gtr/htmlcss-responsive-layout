@@ -1,1 +1,7 @@
 /* Soluzione qui */
+
+@media screen and (min-width: 728px) {
+    #topbar{
+        justify-content: flex-start;
+    }    
+}
