@@ -26,8 +26,17 @@
         grid: auto-flow dense / 29% 40% 1fr;
     }
 
-    .btn{
+    .social-networks button{
         width: 20%;
         font-size: 155%;
+    }
+
+    .ads{
+        display: flex;
+    }
+
+    .presentation img{
+        float: left;
+        margin-right: 15px;
     }
 }
