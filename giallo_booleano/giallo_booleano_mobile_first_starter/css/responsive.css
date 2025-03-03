@@ -14,10 +14,15 @@
     }
 
     .recipe-origin{
-        display: inline;
+        display: inline-block;
     }
 
     .recipe-name{
         font-size: 40px;
+    }
+
+    .quick-notes ul{
+        display: grid;
+        grid: auto-flow dense / 29% 40% 1fr;
     }
 }
